@@ -1,3 +1,6 @@
+---
+layout: default
+---
 
 A native Vietnam from Hanoi city. Completed MSc in Automation Engineering at National Formosa University, Taiwan.
 

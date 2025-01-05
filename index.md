@@ -6,9 +6,9 @@ A native Vietnam from Hanoi city. Completed MSc in Automation Engineering at Nat
 
 Pursuing PhD in Electronic Engieering at National Kaohsiung University of Science and Technology, Taiwan.
 
-Research Interests: VLSI, Embedded Systems, Image Processing, Detection.
+Research Interests: Stochastic Computing, Digital IC Design, Image Processing, and Machine Learning.
 
-Last update: 08/08/2024
+Last update: 05/01/2025
 
 ## Current
 - Working on [NCLAB](https://sites.google.com/nkust.edu.tw/nclab/%E9%A6%96%E9%A0%81?authuser=0)
@@ -32,6 +32,7 @@ Last update: 08/08/2024
 - [National Kaohsiung University of Science and Technology](https://www.nkust.edu.tw/)
   - PhD in Electronic Engineering Department, Aug,2024-now
   - Advisor: [Prof. Shao-I Chu (朱紹儀)](http://www.ec.nkust.edu.tw/en/staff/%e6%9c%b1%e7%b4%b9%e5%84%80/) - [IEEE Xplore](https://ieeexplore.ieee.org/author/37595570600)
+  - Co-Advisor: [Prof. Bing-Hong Liu (劉炳宏)](http://www.ec.nkust.edu.tw/en/staff/%E5%8A%89%E7%82%B3%E5%AE%8F/) - [IEEE Xplore](https://ieeexplore.ieee.org/author/37291894200)
 - [National Formosa University (NFU)](https://www.nfu.edu.tw/)
   - Master of Science in Automation Engineering, 2022 - 2024
   - Thesis: [Inspection of the Mechanical Seal Gasket Defects Using YOLO Algorithm](https://hdl.handle.net/11296/8s2xx2)
